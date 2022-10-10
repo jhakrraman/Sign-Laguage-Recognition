@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>Hello.8b892f6b-47ae-11ed-ae6c-9c5a446d5866.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hello</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37.48</xmin>
+      <ymin>174.33</ymin>
+      <xmax>240.11</xmax>
+      <ymax>445.85</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

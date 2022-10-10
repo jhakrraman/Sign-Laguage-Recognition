@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>Thanks.985d1fc7-47ae-11ed-b3e5-9c5a446d5866.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Thanks</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117.55</xmin>
+      <ymin>256.39</ymin>
+      <xmax>462.31</xmax>
+      <ymax>436.98</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

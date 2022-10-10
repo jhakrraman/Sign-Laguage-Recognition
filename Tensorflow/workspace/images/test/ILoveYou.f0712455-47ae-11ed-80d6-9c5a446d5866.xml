@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>ILoveYou.f0712455-47ae-11ed-80d6-9c5a446d5866.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>I love you</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93.81</xmin>
+      <ymin>254.46</ymin>
+      <xmax>277.31</xmax>
+      <ymax>475.1</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
